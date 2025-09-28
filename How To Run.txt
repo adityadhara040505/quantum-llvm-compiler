@@ -1,0 +1,3 @@
+cd /path/to/quantum-llvm-compiler
+source .venv/bin/activate
+PYTHONPATH=. python classical_compiler_final.py
