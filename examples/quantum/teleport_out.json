@@ -1,0 +1,5 @@
+{
+  "num_qubits": 3,
+  "num_clbits": 1,
+  "depth": 4
+}

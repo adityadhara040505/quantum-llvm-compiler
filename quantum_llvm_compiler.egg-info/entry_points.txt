@@ -1,0 +1,3 @@
+[console_scripts]
+qlc = main:main
+quantum-llvm-compiler = main:main
